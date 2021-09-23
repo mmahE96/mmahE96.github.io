@@ -27,8 +27,14 @@ body {
 /*
 * Header
 */
+
+.header {
+	margin: 0px 0px 0px -7px;
+}
+
 .header-top {
 	border-bottom: 1px solid #e7e7e7 !important;
+	
 }
 .header-top .header-top-phone {
 	font-size: 16px !important;
