@@ -278,13 +278,13 @@
 */
 .custom-owl-carousel .owl-next:before {
 	content: "\f060" !important;
-	color: #212529 !important;
+	color: rgb(246,204,71) !important;
 	font-size: 20px !important;
 }
 
 .custom-owl-carousel .owl-prev:before {
 	content: "\f061" !important;
-	color: #212529 !important;
+	color: rgb(246,204,71) !important;
 	font-size: 20px !important;
 }
 
@@ -451,7 +451,7 @@
 
 .patient-reviews .owl-next:before {
 	content: "\f060" !important;
-	color: #212529 !important;
+	color: rgb(246,204,71) !important;
 	font-family: 'Font Awesome 5 Free' !important;
 	font-weight: 900 !important;
 	font-size: 20px !important;
@@ -472,7 +472,7 @@
 
 .patient-reviews .owl-prev:before {
 	content: "\f061" !important;
-	color: #212529 !important;
+	color: rgb(246,204,71) !important;
 	font-family: 'Font Awesome 5 Free' !important;
 	font-weight: 900 !important;
 	font-size: 20px !important;

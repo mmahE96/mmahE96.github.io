@@ -12,7 +12,7 @@
 }
 
 a {
-	color: #3467ef;
+	color: rgba(40, 57, 134);
 }
 
 a:hover {
@@ -29,12 +29,12 @@ a:active {
 
 html .text-color-primary,
 html .text-primary {
-	color: #3467ef !important;
+	color: rgba(40, 57, 134) !important;
 }
 
 html .text-color-hover-primary:hover,
 html .text-hover-primary:hover {
-	color: #3467ef !important;
+	color: rgba(40, 57, 134) !important;
 }
 
 html .text-color-secondary,
@@ -798,7 +798,7 @@ html .overlay-color-light:not(.no-skin):before {
 }
 
 html .btn-primary {
-	background-color: #3467ef;
+	background-color: rgba(40, 57, 134);
 	border-color: #3467ef #3467ef #1249de;
 	color: #FFF;
 }
@@ -3692,11 +3692,11 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav.header-nav-links nav > ul li:hover > a {
-		color: #3467ef;
+		color: rgba(40, 57, 134);
 	}
 
 	#header .header-nav.header-nav-links nav > ul:not(:hover) > li > a.active {
-		color: #3467ef;
+		color: rgba(40, 57, 134);
 	}
 
 	#header .header-nav.header-nav-links.header-nav-links-vertical-slide nav ul li.dropdown .dropdown-menu::-webkit-scrollbar-thumb {
@@ -4648,7 +4648,7 @@ html .testimonial-quotes-light blockquote:after {
 html .counters .counter-primary [class*="fa-"],
 html .counters .counter-primary .icons,
 html .counters .counter-primary strong {
-	color: #3467ef;
+	color: rgba(40, 57, 134);
 }
 
 html .counters .counter-secondary [class*="fa-"],
