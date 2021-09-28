@@ -204,12 +204,7 @@ body {
     display: block;
 }
 
-@media all and (max-width:500){
- img {
-		display: none;
-	}
 
-}
 
 /*
 * Video background
@@ -236,7 +231,7 @@ body {
 .overVideo {
 	position:absolute;
     top:-10px;
-    left: 50%;
+    
 	top: 50%;
     z-index:1;
 	text-align: center;
@@ -287,15 +282,9 @@ body {
 /*
 * Slider
 */
-.skider-container{
-	overflow: hidden;
-	display: flex;
-	justify-content: center;
-}
 
-.slider-container:hover{
-	
-}
+
+
 
 .slider-container .custom-bottom-label {
 	width: 200px;
@@ -443,7 +432,7 @@ body {
 }
 @media (max-width: 991px) {
 	.more-about {
-		padding-top: 70%;
+		
 		position: static;
 		background-size: 100%;
 		background-position: 0 0;
@@ -703,6 +692,25 @@ body {
 	}
 	.ar {
 		display: none;
+	}
+
+	.mobPic {
+		display: none;
+	}
+
+	.reSize {
+		max-width: 575px;
+        max-height: 100%;
+		font-size: 25px;
+	}
+
+	.tekst {
+		justify-self: center;
+	}
+
+	.slider-container {
+		justify-self: center;
+
 	}
 }
 .footer-top-info .footer-top-info-desc {
